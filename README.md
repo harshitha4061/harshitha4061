@@ -79,8 +79,8 @@
 ---
 
 ### 🌟 Positions of Responsibility
-- Joint Secretary @ **CBIT Cyber Security Club** – Coordinated a **400+ attendee bootcamp**
-- Design Coordinator @ **IEEE CBIT** – Led branding & design for **Udbhava fest (500+ attendees)**
+- Joint Secretary @ **CBIT Cyber Security Club** 
+- Design Coordinator @ **IEEE CBIT** 
 
 ---
 
