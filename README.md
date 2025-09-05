@@ -18,22 +18,19 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=harshith4061.harshitha4061" />
-</div>
-
 ---
 
 <h1 align="center">Hey there 👋, I'm Kolli Harshitha</h1>
 
-<h3 align="center">Aspiring Full-Stack Developer | Cloud & AI Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Aspiring Full-Stack Developer | AI Enthusiast | Learning DevOps</h3>
 
 ---
 
 ### 👩‍💻 About Me
-- 🔭 I’m currently working as a **Research Intern (SURE) at IIT Hyderabad**
-- 📚 I’m learning **Cloud Computing, AI/ML, and Scalable Systems**
-- ⚡ In my free time, I enjoy **solving DSA problems, designing UIs, and exploring new tech tools**
+- 🔭 I worked as a **Research Intern (SURE) at IIT Hyderabad**
+- 📚 Currently learning **DevOps tools, AI/ML**
+- ⚡ In my free time, I love **solving DSA problems, experimenting with designs, and exploring new tools**
+- 🎨 Fun fact: I enjoy **designing logos, posters, and creative materials**, and I’m a **sports person** 🏅
 
 ---
 
@@ -50,7 +47,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwind logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="lxc logo" />
 </div>
+
 
 
 ---
