@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id="harshith4061.harshitha4061" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=harshith4061.harshitha4061" />
 </div>
 
 ---
