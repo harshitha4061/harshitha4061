@@ -97,6 +97,5 @@
 ---
 
 ### 📫 Let’s Connect
-📞 +91-63631-18419  
 📧 harshu.kolli05@gmail.com  
-🌐 [Portfolio](<!-- Portfolio Link -->) | [GitHub](<!-- GitHub Link -->) | [LinkedIn](<!-- LinkedIn Link -->) | [LeetCode](<!-- LeetCode Link -->)
+🌐 [Portfolio](https://portfolio-nu-sandy-28.vercel.app/) | [GitHub](https://github.com/harshitha4061) | [LinkedIn](www.linkedin.com/in/kolli-harshitha-b95006293) | [LeetCode](https://leetcode.com/u/harshu_kolli05/)
