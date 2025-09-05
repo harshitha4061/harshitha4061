@@ -60,7 +60,6 @@
 
 
 ---
----
 
 ### 🎓 Education
 - **B.E. in Information Technology** @ Chaitanya Bharathi Institute of Technology (2022 – 2026)  
