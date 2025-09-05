@@ -86,12 +86,12 @@
 
 ### 🔥 GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=<!-- your_github_username -->&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=harshitha4061&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<!-- your_github_username -->&show_icons=true&theme=dark" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<!-- your_github_username -->&layout=compact&theme=dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshitha4061&show_icons=true&theme=dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitha4061&layout=compact&theme=dark" height="180" />
 </div>
 
 ---
